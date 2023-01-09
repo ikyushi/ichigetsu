@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=Klee+One&family=Zen+Kurenaido");
+
+body {
+    align-content: center;
+    text-align: center;
+    color: white;
+    font-size: 13pt;
+    font-family: "Klee One";
+}
+.version {
+    text-align: left;
+}
+button {
+    background-color: rgba(25, 25, 25, 0.5);
+}
